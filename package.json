@@ -1,0 +1,30 @@
+{
+	"name": "browser-os",
+	"version": "1.0.0",
+	"description": "A module to inform the Browser Operating System",
+	"main": "index.js",
+	"author": "Hallss <hallss93@hotmail.com>",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hallss93/browser-os.git"
+	},
+	"keywords": [
+		"js",
+		"javascript",
+		"browser",
+		"os",
+		"userAgent",
+		"user",
+		"agent",
+		"win",
+		"mac",
+		"linux",
+		"android"
+	],
+	"bugs": {
+		"url": "https://github.com/hallss93/browser-os/issues"
+	},
+	"homepage": "https://github.com/hallss93/browser-os#readme",
+	"dependencies": {}
+}
